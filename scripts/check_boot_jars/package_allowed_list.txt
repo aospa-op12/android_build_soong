@@ -220,6 +220,9 @@ com\.google\.wear\..*
 vendor\.google_clockwork\.displayoffload3
 vendor\.google_clockwork\.displayoffload3\..*
 
+# OPLUS adds
+com\.oplus\..*
+
 ###################################################
 # IFAA Manager used for Alipay and/or WeChat payment
 org\.ifaa\.android\.manager.*
