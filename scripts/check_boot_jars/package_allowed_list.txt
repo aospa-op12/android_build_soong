@@ -232,3 +232,6 @@ vendor.oneplus.*
 # IFAA Manager used for Alipay and/or WeChat payment
 org\.ifaa\.android\.manager.*
 org\.ifaa\.aidl.*
+
+# OnePlus Framework
+com\.color\.inner\.view\.*
